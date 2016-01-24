@@ -12,7 +12,8 @@
       </div>
    <div class="row">
     <div class="col-sm-9" style="border: 2px solid red;">
-        The kill zone is here...      
+        The kill zone is here...   
+        The kill zone is there...   
     </div>
       <div class="col-sm-3" style="border: 2px solid red;">
         Will Trump with the Republican Presidential Nomination?
