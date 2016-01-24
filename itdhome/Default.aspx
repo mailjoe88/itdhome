@@ -12,7 +12,7 @@
       </div>
    <div class="row">
     <div class="col-sm-9" style="border: 2px solid red;">
-        Assman        
+        The kill zone       
     </div>
       <div class="col-sm-3" style="border: 2px solid red;">
         Will Trump with the Republican Presidential Nomination?
